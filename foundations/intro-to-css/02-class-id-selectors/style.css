@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+.klass,
+.cool {
+        background-color:rgb(175, 75, 75);
+}
+
+#identitet {
+    color: rgb(0, 0, 255);
+    font-size: 50px;
+}
+
+.cool {
+    font-size: 40px;
+}
+
+#fjärde {
+    background-color: rgb(0, 150, 0);
+    font-size: 30px;
+}
